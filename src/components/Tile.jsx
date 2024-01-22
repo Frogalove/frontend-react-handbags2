@@ -12,3 +12,4 @@ function Tile({ image, imgDescription, title, children }) {
 }
 
 export default Tile;
+//export default Tile
