@@ -44,14 +44,11 @@ function App() {
               praesentium quia sequi similique sunt.</p>
           </Tile>
         </section>
-        <section>
+
           <Tile image={brand} imageDescription="The brand logo"/>
-        </section>
+          <Tile image={our_story} imageDescription="The designers"/>
+          <Tile title='Our Story'>
 
-
-        <Tile image={our_story} imageDescription="The designers"/>
-
-            <Tile title='Our Story'>
 
             <section>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis eligendi exercitationem illo,
@@ -69,3 +66,4 @@ function App() {
 }
 
 export default App
+// eind git
